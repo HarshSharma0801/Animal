@@ -31,8 +31,6 @@ public class Dog extends Animal {
             System.out.println("Ow Wooooo!");
         }
         bark();
-        System.out.println();
-
     }
 
     @Override
@@ -47,7 +45,7 @@ public class Dog extends Animal {
            run();
            bark();
         }
-        System.out.println();
+
     }
 
     private void bark(){

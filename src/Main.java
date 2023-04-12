@@ -27,4 +27,5 @@ public class Main {
         System.out.println("_ _ _ _");
         System.out.println("_ _ _ _");
     }
+        System.out.println("ending");
 }

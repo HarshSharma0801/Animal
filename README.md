@@ -1,3 +1,3 @@
 # Animal
-Oops Concept used here in java code
+Oops Concept used here in java code inheritance
  
